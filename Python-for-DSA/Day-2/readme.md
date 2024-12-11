@@ -1,1 +1,1 @@
-<img src="" alt="Task 1 Output" width="600">
+<img src="" alt="Day 2 Output" width="600">
