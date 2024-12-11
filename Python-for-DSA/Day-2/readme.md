@@ -1,0 +1,1 @@
+<img src="" alt="Task 1 Output" width="600">
