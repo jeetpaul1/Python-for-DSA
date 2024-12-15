@@ -1,10 +1,9 @@
 #Write a program to remove duplicates from a list and return a list of unique elements.
 
 
+numbers = [1, 2, 3, 2, 4, 3, 5]  #solution
 
-numbers = [1, 2, 3, 2, 4, 3, 5] #solution
-
-# Removing duplicates
+# Remove duplicates
 unique_numbers = list(set(numbers))
 
 # Print results
