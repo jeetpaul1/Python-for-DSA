@@ -1,4 +1,4 @@
-#Create and Access a Tuple
+#Write a program to create a tuple with mixed data types and access its elements using indexing and slicing.
 
 # Defining a tuple with mixed data types
 my_tuple = (10, "Python", 3.14, True) #solution

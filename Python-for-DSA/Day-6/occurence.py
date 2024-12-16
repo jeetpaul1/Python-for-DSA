@@ -1,4 +1,4 @@
-#Count Occurrences of an Element
+#Write a program to count how many times a specific element appears in a tuple.
 
 # Define a tuple
 my_tuple = (1, 2, 3, 2, 4, 2, 5) #solution
