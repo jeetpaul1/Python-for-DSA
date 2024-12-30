@@ -1,0 +1,1 @@
+#Write a Python program to perform Huffman Coding for a given string. Print the encoded string and decode it back to the original string.
